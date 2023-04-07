@@ -16,7 +16,7 @@ background-repeat: no-repeat;
     height:500px;
     margin:0 auto;
     margin-top: 200px;
-    background-image: url("/imagenes/imagen3.jpg.png");
+    background-image: url("https://github.com/fredyhack22/Webpages/blob/main/imagenes/imagen3.jpg.png");
     background-size: cover;
 }
 
