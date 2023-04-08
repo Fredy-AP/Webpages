@@ -1,7 +1,7 @@
 body {
 height: 120vh; 
 background-image:
-linear-gradient(transparent,#f8fbf7) ,url("https://github.com/fredyhack22/Webpages/blob/main/SantaBarbara-Antioquia.jpg");
+linear-gradient(transparent,#f8fbf7) ,url("https://github.com/fredyhack22/Webpages/blob/main/SantaBarbara-Antioquia.jpg?raw=true");
 background-position: 0 65vw, 0 0; 
 background-size: 70% 7vw,100% auto; 
 background-repeat: no-repeat; 
